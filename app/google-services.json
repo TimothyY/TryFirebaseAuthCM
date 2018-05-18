@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "17260377746",
+    "firebase_url": "https://tryfirebaseauthfcm.firebaseio.com",
+    "project_id": "tryfirebaseauthfcm",
+    "storage_bucket": "tryfirebaseauthfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17260377746:android:70a5976f502a849d",
+        "android_client_info": {
+          "package_name": "com.example.quintal.tryfirebaseauthcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17260377746-fa02p4n7mahrn9fi3tvjv355og0d5on2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quintal.tryfirebaseauthcm",
+            "certificate_hash": "94e1075ba306e15cfb6ca6f64b6ba16e3aaa899c"
+          }
+        },
+        {
+          "client_id": "17260377746-6j4p3bifghivbl66rui9di5dtev7218a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLAD1KEjnCnJZ_VgRl6UyB3Z4bXfEpo24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17260377746-6j4p3bifghivbl66rui9di5dtev7218a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
